@@ -6,7 +6,7 @@ Theme URI: http://www.themeisle.com
 Author: ThemeIsle
 Author URI: http://www.themeisle.com
 Description: The WordPress Theme for ThemeIsle
-Version: 1.0
+Version: 1.0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: two-columns, right-sidebar, custom-menu, featured-images, sticky-post, translation-ready
@@ -2257,7 +2257,7 @@ dl.gallery-columns-9 .wp-caption-text {
 .openresponsivemenu {
   display: none;
 }
-
+.constructzine-copyright {	text-align:right;}.constructzine-copyright a {	color: #fff;}
 /*
 **  2 - Responsive
 **

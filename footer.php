@@ -56,7 +56,7 @@
 				echo get_theme_mod( 'ti_footer_map_iframe' );
 			} else { ?>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48393.71012617254!2d-74.0047826738297!3d40.704654807499544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York!5e0!3m2!1sro!2sro!4v1403183009785" width="600" height="450" frameborder="0" style="border:0"></iframe>
-			<?php }
+			<?php }			echo '<div class="constructzine-copyright"><a href="https://themeisle.com/themes/constructzine/" target="_blank" rel="nofollow">Constructzine</a> powered by <a href="http://wordpress.org/" target="_blank" rel="nofollow">WordPress</a></div>';
 			?>
 		</div>
 	</div>
